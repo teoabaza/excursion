@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: normal;
+    color: aquamarine;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+}
+
+a:link {
+    color: aquamarine;
+  }
+  a:visited {
+    color: aquamarine;
+  }
+  a:hover {
+    color: aquamarine;
+  }
+  a:active {
+    color: aquamarine;
+  }
+
+  h2 {
+      font-family: Verdana;
+      font-weight: 300;
+      font-size: 42px;
+      color: white;
+  }
+
+  h3 {
+      font-family: Verdana;
+      font-size: 21px;
+      color: Grey;
+  }
